@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.virgingames.gamesinfo.GamesTest" skipped="0" tests="2" time="6.4" timestamp="2022-06-18T00:07:06.309+01:00[Europe/London]"><testcase classname="com.virgingames.gamesinfo.GamesTest" name="This test will verify startTime should always be a future timestamp"/><testcase classname="com.virgingames.gamesinfo.GamesTest" name="This test will verify defaultGameFrequency value should be '300000' "><failure message="defaultGameFrequency has null value" type="java.lang.AssertionError">defaultGameFrequency has null value</failure><system-err>defaultGameFrequency has null value&#13;
+com.virgingames.gamesinfo.GamesTest.test002(GamesTest.java:59)&#13;
+</system-err></testcase></testsuite>

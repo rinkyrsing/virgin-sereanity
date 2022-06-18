@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Games test","This test will verify defaultGameFrequency value should be '300000' ","FAILURE","2022-06-18T00:07:12.613+01:00[Europe/London]","0.0","0.33"

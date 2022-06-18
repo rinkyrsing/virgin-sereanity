@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.virgingames.gamesinfo.GamesTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 9.83 sec <<< FAILURE! - in com.virgingames.gamesinfo.GamesTest
+test002(com.virgingames.gamesinfo.GamesTest)  Time elapsed: 0.323 sec  <<< FAILURE!
+java.lang.AssertionError: defaultGameFrequency has null value
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertNotNull(Assert.java:712)
+	at com.virgingames.gamesinfo.GamesTest.test002(GamesTest.java:59)
+
